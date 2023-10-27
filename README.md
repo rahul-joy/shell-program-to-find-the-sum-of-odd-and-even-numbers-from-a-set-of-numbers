@@ -1,5 +1,8 @@
 # shell-program-to-find-the-sum-of-odd-and-even-numbers-from-a-set-of-numbers
 
+
+
+-----------------------------|
 #!/bin/bash
 
 even_sum=0
