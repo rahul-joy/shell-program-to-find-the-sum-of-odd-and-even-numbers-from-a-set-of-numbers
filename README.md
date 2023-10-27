@@ -16,7 +16,8 @@ read input
 numbers=($input)
 
 for number in "${numbers[@]}"; do
-    if ((number % 2 == 0)); then
+
+  if ((number % 2 == 0)); then
     
    even_sum=$((even_sum + number))
      
