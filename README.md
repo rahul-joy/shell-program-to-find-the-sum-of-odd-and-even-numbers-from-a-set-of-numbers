@@ -25,4 +25,4 @@ done
 echo "Sum of even numbers: $even_sum"
 echo "Sum of odd numbers: $odd_sum"
 
------------------------
+------------------------|
